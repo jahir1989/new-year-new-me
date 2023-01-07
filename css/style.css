@@ -3,6 +3,7 @@
     font-family: 'Work Sans', sans-serif;
 
 }
+/* Header section */
 header {
     background-image: url(../images/banner/banner3.png);
     width: 1600px;
@@ -44,9 +45,13 @@ header {
 
 
 }
+/* boddy section */
+
 .body-content{
 
 }
+
+/* past year failure section */
 .past-failure{
     display:flex;
     margin-left:205px;
@@ -84,6 +89,9 @@ header {
     font-size: 16px;
     color: #444343;
 }
+
+/* my plan */
+
 .my-plan{
     margin-top:150px;
 }
@@ -98,6 +106,7 @@ header {
     margin-left: 120px;
 }
 
+/* my plan list item */
 
 .single-list-item{
     margin-left: 140px;
@@ -110,6 +119,8 @@ header {
     color: #737272;
 
 }
+
+/* what to learn */
 
 .what-to-do{
     background-color: #fff;
@@ -141,6 +152,9 @@ header {
     box-shadow: 1px 1px 12px #cecbcb ;
 }
 
+/* positive mindset */
+
+
 .positive-mindset {
     background-image: url(../images/watch.png);
     height: 300px;
@@ -164,6 +178,10 @@ header {
     color: #fff;
     font-size: 40px;
 }
+
+/* footer section */
+
+
 footer{
     margin-top: 150px;
     background-color: #000;
