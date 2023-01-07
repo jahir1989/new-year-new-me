@@ -33,7 +33,7 @@ header {
     line-height: 26px;
 }
 
-.header-section button{
+.button-style{
     font-weight: 800;
     margin-top: 25px;
     width: 160px;
@@ -95,10 +95,10 @@ header {
 .plan-item{
     display: flex;
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 120px;
 }
 .single-list-item{
-    margin-left: 125px;
+    margin-left: 140px;
 }
 .single-list-item h3{
     font-size: 25px;
@@ -107,4 +107,98 @@ header {
 .single-list-item p{
     color: #737272;
 
+}
+.positive-mindset {
+    background-image: url(../images/watch.png);
+    height: 300px;
+    width: 1140px;
+    margin-left: 240px;
+    margin-top: 150px;
+}
+.positive-mindset div{
+    background-image: url(../images/gradient1.png);
+    height: 300px;
+    width: 1140px;
+    
+}
+.banner-text{
+    margin-top: 125px;
+    margin-left: 100px;
+    width: 400px;
+}
+.positive-mindset div h2{
+    padding-top: 75px;
+    color: #fff;
+    font-size: 40px;
+}
+footer{
+    margin-top: 150px;
+    background-color: #000;
+}
+.footer-section{
+    display: flex;
+    height: 580px;
+   
+}
+.future{
+    color: #fff;
+    width: 800px;
+    margin-top: 150px;
+    margin-left: 235px
+}
+
+.future div{
+    width: 485px;
+}
+.future h2{
+    font-size: 45px;
+}
+
+.future p{
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+.footer-social-share{
+    margin-top: 30px;
+    margin-left: -40px;
+    display: flex
+}
+
+.footer-social-share li{
+    
+    margin-right: 20px;
+}
+
+.subscribe{
+    margin-top: 150px;
+}
+.subscribe h3{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+.subscribe input{
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    width: 300px;
+    margin-top: 25px;
+    display: block;
+}
+.subscribe button{
+    margin-top: 25px;
+    padding: 15px;
+    background-color: #005FAC;
+    color: #fff;
+    width: 150px;
+    border-style: none;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.footer-social-share li {
+    list-style: none;
 }
