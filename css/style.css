@@ -97,6 +97,8 @@ header {
     margin-top: 50px;
     margin-left: 120px;
 }
+
+
 .single-list-item{
     margin-left: 140px;
 }
@@ -108,6 +110,37 @@ header {
     color: #737272;
 
 }
+
+.what-to-do{
+    background-color: #fff;
+    width: 1200px;
+    margin-top: 150px;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+.what-to-do h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.learning-description{
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 800px;
+    text-align: center;
+}
+
+.learning{
+    display: flex;
+    margin-top: 80px;
+}
+.learning div{
+    margin-left: 40px;
+    padding: 30px;
+    width: 200px;
+    box-shadow: 1px 1px 12px #cecbcb ;
+}
+
 .positive-mindset {
     background-image: url(../images/watch.png);
     height: 300px;
